@@ -22,4 +22,3 @@ echo "Segera Dimulai,,,,"
 echo "Support Dengan Click Subscribe"
 echo "pormes17 on YouTube"
 echo "Execution"
-python HiddenEye.py

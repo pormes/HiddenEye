@@ -1,9 +1,9 @@
 echo "Configuration HiddenEye"
 echo "For Mor Acseleration Subscribe Pormes17 on youtube"
 
-echo -e \033[0;36m    "█▀█░█▀█░█▀█░█▀█░█░█░█▄█░█▀█░█░█░█▀▀"
-echo -e \033[0;36m    "█▀█░█░█░█░█░█░█░░█░░█░█░█░█░█░█░▀▀█"
-echo -e \033[0;36m    "▀░▀░▀░▀░▀▀▀░▀░▀░░▀░░▀░▀░▀▀▀░▀▀▀░▀▀▀"
+echo "█▀█░█▀█░█▀█░█▀█░█░█░█▄█░█▀█░█░█░█▀▀"
+echo "█▀█░█░█░█░█░█░█░░█░░█░█░█░█░█░█░▀▀█"
+echo "▀░▀░▀░▀░▀▀▀░▀░▀░░▀░░▀░▀░▀▀▀░▀▀▀░▀▀▀"
 echo "© 2020 GitHub, https://github.com/pormes/HiddenEye.git Inc."
 
 echo "Installation Runing ..."
@@ -22,4 +22,4 @@ echo "Segera Dimulai,,,,"
 echo "Support Dengan Click Subscribe"
 echo "pormes17 on YouTube"
 echo "Execution"
-python HiddenaEye.py
+python HiddenEye.py
